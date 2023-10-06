@@ -5,6 +5,11 @@ date: "2023-09-14"
 output: pdf_document
 ---
 
+## R Software
+
+R is a free software environment for statistical computing and graphics. It compiles and runs on
+a wide variety of UNIX platforms, Windows and MacOS.
+
 To install R and its essential programs, follow these steps:
 
 ## 1. Install R:
@@ -34,12 +39,13 @@ To install R and its essential programs, follow these steps:
 ```
 
 
-## 2. Install RStudio (optional but highly recommended):
+## 2. Install RStudio (optional but highly recommended)
 
 - RStudio is a popular integrated development environment (IDE) for R that makes working with R much easier. You can download it from the RStudio website: \textcolor{red} {https://www.rstudio.com/products/rstudio/download/}
 
-## 3. Install essential R packages:
-   - Once you have R installed, open R or RStudio. You can install R packages (libraries) using the `install.packages()` function. For example, to install the popular `dplyr` package, open R or RStudio and run:
+## 3. Install essential R packages
+
+   - Once you have R installed, open R or RStudio. You can install R packages (libraries) using the \textbf{`install.packages()`} function. For example, to install the popular \textbf{`dplyr`} package, open R or RStudio and run:
    
 ```{r}
 #install.packages("dplyr")
@@ -48,9 +54,22 @@ To install R and its essential programs, follow these steps:
 
 - Install any other packages you need for your specific tasks by replacing `"dplyr"` with the package name.
 
-## 4. Start using R:
+## 4. Start using R
+
 - You can now start using R by opening R or RStudio. You can write and run R scripts, interactively work in the console, and perform data analysis and visualization.
 
-## 5. Learn R:
-- To effectively use R, consider learning the language and its data analysis capabilities. You can find many tutorials, courses, and books online to help you get started.
+## 5. Learn R
+- To effectively use R, consider learning the language and its data analysis capabilities using the `"dplyr"` package.
+
+## 6. Or videos
+
+Many introduction videos explaining the basics of R can be found on YouTube. For example:
+
+\textcolor{red}{\url{https://www.youtube.com/watch?v=riONFzJdXcs/list=PLqzoL9-eJTNBDdKgJgJzaQcY6OXmsXAHU/}}
+\textcolor{red}{\url{https://www.youtube.com/watch?v=SWxoJqTqo08/list=PLjgj6kdf_snYBkIsWQYcYtUZiDpam7ygg/}}
+\textcolor{red}{\url{https://www.youtube.com/watch?v=LjuXiBjxryQ/}}
+
+If you prefer to read manuals about R, please visit \textcolor{red}{https://cran.r-project.org/} manuals.
+html.
+
 
